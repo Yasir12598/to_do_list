@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAOroAGzLctu4FYp8_mmF0hd93OZ48wOaI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>721382051130</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.to-do-list</string>
+	<key>PROJECT_ID</key>
+	<string>to-do-list-f0c3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>to-do-list-f0c3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:721382051130:ios:00c144e6a9e191de931403</string>
+	<key>DATABASE_URL</key>
+	<string>https://to-do-list-f0c3a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
