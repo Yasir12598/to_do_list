@@ -1,4 +1,3 @@
-import { widthPixel } from '@config/spaces'
 import React from 'react'
 import { ImageBackground, View } from 'react-native'
 import { PrimaryWrapperType } from 'src/module/shared/types'
